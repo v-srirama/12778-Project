@@ -8,6 +8,6 @@
 4. Sri Ramana Saketh Vasanthawada (vsrirama)
 
 
-### Professor: 
+### Instructor : Prof. Mario Bergés
 
-### Project Title 
+
