@@ -1,4 +1,4 @@
-# 12778-Project
+# 12778-Project : Measuring static and dynamic loading on a surface
 # Group members (Andrew ID)
 
 
@@ -7,3 +7,7 @@
 3. Sakar Adhikari (sakara)
 4. Sri Ramana Saketh Vasanthawada (vsrirama)
 
+
+# Professor: 
+
+### Project Title 
