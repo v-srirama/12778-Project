@@ -1,4 +1,4 @@
-# 12778-Project : Measuring static and dynamic loading on a surface
+# Title: Measuring static and dynamic loading on a surface
 # Group members (Andrew ID)
 
 
