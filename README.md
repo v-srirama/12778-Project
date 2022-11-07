@@ -20,10 +20,10 @@
 
 ## Motivation and measurement goals
 
-Structural health monitoring (SHM) is the examination and analysis of infrastructure system over time to understand the response to externally induced forces. SHM is becoming increasingly relevant due to the growing research and awareness on interconnected devices and its consequent availability of data, and influx of technology in construction. Among numerous SHM-based applications in a traditional Civil Engineering context, Bridge monitoring is one of a important maintenance activity which is time-consuming, and carries higher economic costs due to unexpected maintenance and repair. Therefore, it is vital to develop a system which asssess the dynamic loading and location of loads present on the structure. This would help in real-time assessment of the structure and function as a predicitive maintenance mechanism protecting people, and inhibiting costs and time. With the overaching theme to measure static and dynamic loading, the project is aimed to develop a real-time load monitoring system using Raspberry Pico W and compatible load measurement sensors. As a Proof of Concept (PoC), a table with custom dimensions - in consideration with sensor characteristics -  is being designed to attain the proposed objectives: 
+Structural health monitoring (SHM) examines and analyzes the infrastructure system over time to understand the response to externally induced forces. SHM is becoming increasingly relevant due to the growing research and awareness of interconnected devices, their consequent availability of data, and the influx of technology in construction. Among numerous SHM-based applications in a traditional Civil Engineering context, Bridge monitoring is one of the critical maintenance activities which is time-consuming and carries higher economic costs due to unexpected maintenance and repair. Therefore, it is vital to develop a system that assesses the dynamic loading and location of loads on the structure. This would help in real-time assessment of the structure and function as a predictive maintenance mechanism protecting people and inhibiting costs and time. With the overarching theme of measuring static and dynamic loading, the project is aimed to develop a real-time load monitoring system using Raspberry Pico W and compatible load measurement sensors. As a Proof of Concept (PoC), a table with custom dimensions - in consideration with sensor characteristics -  is being designed to attain the proposed objectives:
 
-1. Measuring weight of the object on the surface
-2. Static and Dynamic position of object on the surface
+1. Measuring the weight of the object on the surface
+2. Static and Dynamic position of an object on the surface
 3. Location change of object across the surface
 
 
@@ -45,7 +45,6 @@ With the current level of understanding, the following challenges have been iden
 4. Interfacing RPi Pico, sensors and amplifiers
 
 ## Validation of measurement system 
-1. Placing standard weights and verifying with sensor based computations 
-2. Visual inspecting the object location
-
+1. Placing standard weights and verifying with sensor-based computations 
+2. Visual inspecting of the object location
 
