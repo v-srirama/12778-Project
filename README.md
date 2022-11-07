@@ -32,7 +32,7 @@ Structural health monitoring (SHM) is the examination and analysis of infrastruc
 
 | Sensors       | Serial / Make  | Quantity  | Purchase Link  |   
 | ------------- |:-------------:| :-----:| -----:|
-| Load Cell      | 5Kg / 114990100 / Seeed Technology Co., Ltd | 4 | [_Digi-Key Electronics_]() |
+| Load Cell      | 5Kg / 114990100 / Seeed Technology Co., Ltd | 4 | [_Digi-Key Electronics_](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/114990100/5487619) |
 | Load Cell Amplifier   | HX711  |  4 | [_SparkFun_](https://www.sparkfun.com/products/13879)|
 | Resistor Kit | 1/4W 500 pieces |  1 | [_CanaKit_](https://www.canakit.com/resistor-kit-1-4w-com-09258.html)| 
 
