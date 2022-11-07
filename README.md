@@ -14,30 +14,37 @@
 | Sri Ramana Saketh Vasanthawada | [_vsrirama_](mailto:vsrirama@andrew.cmu.edu)      |   [_v-srirama_](https://github.com/v-srirama) |
 
 
+#### Project Proposal Presentation: [10/10/2022](https://docs.google.com/presentation/d/1D6wiyP8TMsjKfLq7qg-S6Jve4d0Y-7zr/edit?usp=sharing&ouid=105676526214084463560&rtpof=true&sd=true)
+
+
+
 ## Motivation and measurement goals
-Structural health monitoring (SHM) is the examination and analysis of infrastructure system over a time interval to understand the response to externally induced forces. SHM is becoming increasingly relevant in the 21st century. This can be attributed to the growing awareness on interconnected devices and its consequent availability of data, influx of technology in construction and towering maintenance and repair costs. 
 
-Hence, the study focusses on the following objectives :
-1. Weight of objects on the surface
-2. Position of object on the surface
-3. Location change/ movement of object across the surface
+Structural health monitoring (SHM) is the examination and analysis of infrastructure system over time to understand the response to externally induced forces. SHM is becoming increasingly relevant due to the growing research and awareness on interconnected devices and its consequent availability of data, and influx of technology in construction. Among numerous SHM-based applications in a traditional Civil Engineering context, Bridge monitoring is one of a important maintenance activity which is time-consuming, and carries higher economic costs due to unexpected maintenance and repair. Therefore, it is vital to develop a system which asssess the dynamic loading and location of loads present on the structure. This would help in real-time assessment of the structure and function as a predicitive maintenance mechanism protecting people, and inhibiting costs and time. With the overaching theme to measure static and dynamic loading, the project is aimed to develop a real-time load monitoring system using Raspberry Pico W and compatible load measurement sensors. As a Proof of Concept (PoC), a table with custom dimensions - in consideration with sensor characteristics -  is being designed to attain the proposed objectives: 
 
-## Identified Sensors
+1. Measuring weight of the object on the surface
+2. Static and Dynamic position of object on the surface
+3. Location change of object across the surface
+
+
+
+## Identified Electronic Measurement Components
 | Sensors       | Serial / Make           | Quantity  | Purchase Link  |   
 | ------------- |:-------------:| -----:| -----:|
 | Load Cell      | 5Kg / 114990100 / Seeed Technology Co., Ltd | 4 | [_Digi-Key Electronics_](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/114990100/5487619) |
 | Load Cell Amplifier      | HX711      |   4 | [_SparkFun_](https://www.sparkfun.com/products/13879)|
 | Resistor Kit | 1/4W 500 pieces |   1 | [_CanaKit_](https://www.canakit.com/resistor-kit-1-4w-com-09258.html)| 
 
-## Measurement design system design
-
-
 
 ## Potential Challenges 
-1. Measuring sensitive quantities 
-2. To measure light weight objects placed on the surface (location)
-3. To accurately measure the movement (dynamic loading)
-4. Interfacing RPi Pico with sensors (Multiple amplifiers or one?)
+With the current level of understanding, the following challenges have been identified for developing the PoC: 
+1. Accuracy in measuring sensitive quantities 
+2. Identifying the location of light loads placed on the surface 
+3. Identifying dynamic loading on the surface 
+4. Interfacing RPi Pico, sensors and amplifiers
 
-## Validation of the Device 
+## Validation of measurement system 
+1. Placing standard weights and verifying with sensor based computations 
+2. Visual inspecting the object location
+
 
