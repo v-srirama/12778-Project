@@ -1,8 +1,8 @@
 # Measuring Static and Dynamic Loading on a Surface   <img src="https://pbs.twimg.com/profile_images/1291079250074894336/8LWaj7yF_400x400.jpg" width="70" height="70" align = "right">
 
-### 12-778: Sensors, Circuits and Data Interpretation/Management for Infrastructure Systems (Fall 2022)
+### [_12-778_](https://sites.inferlab.org/courses/12-778/): _Sensors, Circuits and Data Interpretation/Management for Infrastructure Systems (Fall 2022)_
 
-### Instructor : [_Prof. Mario Bergés_](https://www.inferlab.org/author/mario-berges/) , Professor, Civil and Environmental Engineering
+### Instructor : [_Prof. Mario Bergés_](https://www.inferlab.org/author/mario-berges/) , Professor of Civil and Environmental Engineering, CMU
 
 ### Group Members:
 
@@ -15,7 +15,9 @@
 
 
 ## Motivation and measurement goals
-....Write something...
+Structural health monitoring (SHM) is the examination and analysis of infrastructure system over a time interval to understand the response to externally induced forces. SHM is becoming increasingly relevant in the 21st century. This can be attributed to the growing awareness on interconnected devices and its consequent availability of data, influx of technology in construction and towering maintenance and repair costs. 
+
+Hence, the study focusses on the following objectives :
 1. Weight of objects on the surface
 2. Position of object on the surface
 3. Location change/ movement of object across the surface
@@ -30,6 +32,12 @@
 ## Measurement design system design
 
 
+
 ## Potential Challenges 
+1. Measuring sensitive quantities 
+2. To measure light weight objects placed on the surface (location)
+3. To accurately measure the movement (dynamic loading)
+4. Interfacing RPi Pico with sensors (Multiple amplifiers or one?)
 
 ## Validation of the Device 
+
