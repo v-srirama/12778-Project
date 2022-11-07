@@ -29,6 +29,7 @@ Structural health monitoring (SHM) is the examination and analysis of infrastruc
 
 
 ## Identified Electronic Measurement Components
+
 | Sensors       | Serial / Make  | Quantity  | Purchase Link  |   
 | ------------- |:-------------:| :-----:| -----:|
 | Load Cell      | 5Kg / 114990100 / Seeed Technology Co., Ltd | 4 | [_Digi-Key Electronics_]() |
