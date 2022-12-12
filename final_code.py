@@ -1,4 +1,5 @@
-#from Button import Button
+# hx711 package was from https://github.com/robert-hh/hx711
+
 from hx711 import HX711
 from machine import Pin
 import time
